@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/components/AgendaView.tsx","./src/components/DocumentForm.tsx","./src/components/DocumentPaper.tsx","./src/components/SettingsView.tsx","./src/components/VerifyView.tsx","./src/utils/formatters.ts"],"version":"5.9.3"}
